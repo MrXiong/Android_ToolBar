@@ -15,5 +15,38 @@
         <!-- toolbar -->
         <item name="actionMenuTextColor">@android:color/white</item>
         <item name="android:textSize">18sp</item>
+        <!--&lt;!&ndash; Toolbar高度 &ndash;&gt;
+        <item name="actionBarSize">48dp</item>
+        &lt;!&ndash; Toolbar高度 &ndash;&gt;
+        <item name="actionBarSize">@dimen/height_toolBar</item>
+        &lt;!&ndash; Toolbar背景颜色 &ndash;&gt;
+        <item name="colorPrimary">@color/primaryColor</item>
+        &lt;!&ndash; 状态栏颜色 &ndash;&gt;
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        &lt;!&ndash; 色彩突显 &ndash;&gt;
+        <item name="colorAccent">@color/accentColor</item>
+        &lt;!&ndash; 图标颜色 &ndash;&gt;
+        <item name="colorControlNormal">@color/controlNormalColor</item>
+        &lt;!&ndash; 默认字体颜色 &ndash;&gt;
+        <item name="android:textColor">@color/colorstate_primary_text</item>
+        &lt;!&ndash; 提示字体颜色 &ndash;&gt;
+        <item name="android:textColorHint">@color/hintTextColor</item>
+        &lt;!&ndash; 输入框字体颜色 &ndash;&gt;
+        <item name="android:editTextColor">@color/colorstate_primary_text</item>
+        &lt;!&ndash; 窗口的背景颜色 &ndash;&gt;
+        <item name="android:windowBackground">@color/windowBackgroundColor</item>
+        &lt;!&ndash; MenuItem的字体颜色 &ndash;&gt;
+        <item name="actionMenuTextColor">@color/primaryColor</item>
+        &lt;!&ndash; MenuItem Style &ndash;&gt;
+        <item name="android:actionMenuTextAppearance">@style/MenuTextStyle</item>
+        <item name="android:windowAnimationStyle">@style/SmoothWindowAnimation</item>
+        <item name="android:progressBarStyle">@style/LoadingProgressBar</item>
+
+        <item name="actionOverflowMenuStyle">@style/MyPopupMenuOverflow</item>
+        <item name="actionOverflowButtonStyle">@style/MyOverflowButton</item>
+
+        <item name="colorButtonNormal">@color/accentColor</item>
+        <item name="buttonStyle">@style/NormalButton</item>-->
+
     </style>
 </resources>
